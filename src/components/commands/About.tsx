@@ -20,7 +20,7 @@ const About: React.FC = () => {
       </p>
       <p>
       I had the opportunity to lead, securing the 76th position in India in April 2024. This provided me with the chance to guide the team for its advancement, directing our collective efforts toward shared goals.
-      <a href="https://techn0xploit.vercel.app/" class="sc-fABZjn dvwKqM">Team Link</a>
+      Team Link - https://techn0xploit.vercel.app/
       </p>
     </AboutWrapper>
   );
