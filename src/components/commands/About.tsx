@@ -19,6 +19,7 @@ const About: React.FC = () => {
       I am committed to staying updated on emerging security trends and eager to contribute to secure software development in dynamic environments.
 
       I had the opportunity to lead, securing the 76th position in India in April 2024. This provided me with the chance to guide the team for its advancement, directing our collective efforts toward shared goals.
+      Team Link - https://techn0xploit.vercel.app/
       </p>
     </AboutWrapper>
   );
